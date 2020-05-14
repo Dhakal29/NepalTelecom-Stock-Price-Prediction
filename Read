@@ -1,0 +1,3 @@
+Predicting closing price of NTC using LSTM technique.
+Language- Python
+Libraries - Keras, Tensorflow,Matplotlib,Numpy,Pandas
